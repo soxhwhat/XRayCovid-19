@@ -1,1 +1,138 @@
-<mxfile host="app.diagrams.net" modified="2022-11-15T08:30:23.901Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.42" version="20.5.3" etag="2mmfEshkFL4JQfPMxjGJ" type="github"><diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">7VhZc9MwEP41Hp5gfBQnecRp0wKhU2ihw6NiK7aI7DWynINfzyqWYzsOOYD0yDQv0a43K2m/b4/YcPrx/FKQNPoEAeWGbQZzwzk3bNuybQe/lGZRaLq9bqEIBQu0UaW4Zb+oVppam7OAZg1DCcAlS5tKH5KE+rKhI0LArGk2Bt7cNSUhbSlufcLb2nsWyEjfwu5U+ivKwqjc2XJ7xZOYlMb6JllEApjVVM6F4fQFgCxW8bxPuQpeGZf794t7Ppy4lx8+Zz/JV+/j3fW314WzwSE/WV1B0ET+X9d24XpKeK7jpe8qF2UABeRJQJUT03C8SMYclxYuf1ApFxpwkktAFQgZQQgJ4UOAVNuNIZHazFIyTYJ3CliURxz8SaEaMM71Hihp+y5KmRQwWWGnHKyAUMacjCj3iD8JlwftAweBjxJIqHIVIBn0XarDXVRab8/YagwyyIVPt9jpbJFEhHSbP7ewU+er8VQjd0khplIs0EBQTiSbNslMdE6EK7sKd1xo6A+ggdOiwZDEqcp6oFnySuJqBmKyhRsKl1nEJL1NyTJAMywnTb7UeYBX9UJOskyjuAPkw0CaUiHpfGtYy6euzu2yuGlxVlUKq0z/qFYlzswjAXHWAuI7Fs+XlPyXlHT3TMmyY+3MSU2Wkhh7p6j2dAMskTUTGI8zPNg6dVYb/j2b3rbYdA0tMu3G41nT7ZHI1DmMS9aT55L7hxbhcgyDNxK4CtUq5XkYIlnQXWI4g3btiiAe5dnudtHAWDFoQGLGVbyuKJ9SyXyyoakQzkLc99xHuKnYTB7ckiUhSm4l3S3JivX3iM2m02w2K7nebcwN3aZ7rG7TaWF6g+gV0NkmX+J7Yh3fsddA6D12y+/uU6SfdQl+8I5fVtPdLd/as0xr9phvHPw0CPT0p4DeXjPlyxhwHIbZpzYIlCes8cnL+ag9CYxykSwHAcjlyySwbRKwNzWhB50EykJYA/ULTQlDMM3hKc4B6//8z5zHngPKStGEgKuY2maRYSeGwfos5ljHwwDF6k1tUQqr993OxW8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-11-15T10:36:56.938Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.42" etag="EYJbZvfPQVgvCvI8kCUb" version="20.5.3" type="github">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1039" dy="1678" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="RC_egClTI2QSsLl8QD6b-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RC_egClTI2QSsLl8QD6b-2" target="RC_egClTI2QSsLl8QD6b-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RC_egClTI2QSsLl8QD6b-2" value="新冠肺炎图像&lt;br&gt;（原始、数据增强、&lt;br&gt;GAN生成）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;points=[[0,0,0,0,0],[0,0.25,0,0,0],[0,0.5,0,0,0],[0,0.75,0,0,0],[0,1,0,0,0],[0.25,0,0,0,0],[0.25,1,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[0.75,0,0,0,0],[0.75,1,0,0,0],[1,0,0,0,0],[1,0.25,0,0,0],[1,0.5,0,0,0],[1,0.75,0,0,0],[1,1,0,0,0]];" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="80" y="-35" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RC_egClTI2QSsLl8QD6b-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RC_egClTI2QSsLl8QD6b-13" target="RC_egClTI2QSsLl8QD6b-44">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="333" y="80" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="383" y="50" />
+              <mxPoint x="383" y="80" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RC_egClTI2QSsLl8QD6b-13" value="新冠肺炎&lt;br&gt;图像分类算法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="423" y="30" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RC_egClTI2QSsLl8QD6b-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="753" y="80" as="sourcePoint" />
+            <mxPoint x="753" y="80" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RC_egClTI2QSsLl8QD6b-15" value="图像增强以及&lt;br&gt;背景区域模糊处理" style="rounded=0;whiteSpace=wrap;html=1;points=[[0,0,0,0,0],[0,0.25,0,0,0],[0,0.5,0,0,0],[0,0.75,0,0,0],[0,1,0,0,0],[0.25,0,0,0,0],[0.25,1,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[0.75,0,0,0,0],[0.75,1,0,0,0],[1,0,0,0,0],[1,0.25,0,0,0],[1,0.5,0,0,0],[1,0.75,0,0,0],[1,1,0,0,0]];" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="620" y="-30" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RC_egClTI2QSsLl8QD6b-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RC_egClTI2QSsLl8QD6b-16" target="RC_egClTI2QSsLl8QD6b-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RC_egClTI2QSsLl8QD6b-16" value="图像分辨率和格式&lt;br&gt;是否需要调整" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="265" y="-50" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RC_egClTI2QSsLl8QD6b-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;spacing=6;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RC_egClTI2QSsLl8QD6b-19" target="RC_egClTI2QSsLl8QD6b-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RC_egClTI2QSsLl8QD6b-19" value="图像分辨率&lt;br&gt;和格式调整" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="470" y="-30" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RC_egClTI2QSsLl8QD6b-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="RC_egClTI2QSsLl8QD6b-51">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="723" y="80" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="723" y="80" />
+              <mxPoint x="723" y="50" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RC_egClTI2QSsLl8QD6b-38" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="RC_egClTI2QSsLl8QD6b-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="-50" as="sourcePoint" />
+            <mxPoint x="660" y="-100" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="340" y="-50" />
+              <mxPoint x="340" y="-80" />
+              <mxPoint x="680" y="-80" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RC_egClTI2QSsLl8QD6b-39" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="550" y="-110" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RC_egClTI2QSsLl8QD6b-40" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="420" y="-35" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RC_egClTI2QSsLl8QD6b-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RC_egClTI2QSsLl8QD6b-44" target="RC_egClTI2QSsLl8QD6b-49">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210.0000000000001" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RC_egClTI2QSsLl8QD6b-44" value="新冠肺炎&lt;br&gt;识别与诊断系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="225" y="60" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RC_egClTI2QSsLl8QD6b-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RC_egClTI2QSsLl8QD6b-14" target="RC_egClTI2QSsLl8QD6b-44">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="423" y="110" as="sourcePoint" />
+            <mxPoint x="350" y="80" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="383" y="100" />
+              <mxPoint x="383" y="80" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RC_egClTI2QSsLl8QD6b-49" value="输出诊断结果" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="80" y="60" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RC_egClTI2QSsLl8QD6b-51" value="划分数据集以及&lt;br&gt;调整输入大小" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="573" y="30" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RC_egClTI2QSsLl8QD6b-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RC_egClTI2QSsLl8QD6b-51">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="433" y="70" as="sourcePoint" />
+            <mxPoint x="543" y="50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RC_egClTI2QSsLl8QD6b-14" value="新冠肺炎病灶区域&lt;br&gt;定位与可视化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="493" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RC_egClTI2QSsLl8QD6b-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="RC_egClTI2QSsLl8QD6b-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="723" y="80" as="sourcePoint" />
+            <mxPoint x="543" y="100" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="583" y="100" />
+              <mxPoint x="543" y="100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RC_egClTI2QSsLl8QD6b-62" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="RC_egClTI2QSsLl8QD6b-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="723" y="80" as="sourcePoint" />
+            <mxPoint x="473" y="90" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="723" y="100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RC_egClTI2QSsLl8QD6b-64" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RC_egClTI2QSsLl8QD6b-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="730" y="50" as="sourcePoint" />
+            <mxPoint x="720" y="80" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="760" y="-10" />
+              <mxPoint x="760" y="80" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
